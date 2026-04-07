@@ -43,7 +43,7 @@ Here you can explore the work I have done throughout the course, including offli
 
 ---
 
-## Contact / Notes
+## Notes
 
 - All projects are implemented in MATLAB  
 - This portfolio reflects my work and understanding of dynamic system modeling and parameter estimation techniques  
